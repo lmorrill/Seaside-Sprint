@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 763727b523383b84f8b8bd53217fcd59
+timeCreated: 1488840863
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Turnip w Paper_0
+    21300002: Turnip w Paper_1
+    21300004: Turnip w Paper_2
+    21300006: Turnip w Paper_3
+    21300008: Turnip w Paper_4
+    21300010: Turnip w Paper_5
+    21300012: Turnip w Paper_6
+    21300014: Turnip w Paper_7
+    21300016: Turnip w Paper_8
+    21300018: Turnip w Paper_9
+    21300020: Turnip w Paper_10
+    21300022: Turnip w Paper_11
+    21300024: Turnip w Paper_12
+    21300026: Turnip w Paper_13
+    21300028: Turnip w Paper_14
+    21300030: Turnip w Paper_15
+    21300032: Turnip w Paper 1_0
+    21300034: Turnip w Paper 1_1
+    21300036: Turnip w Paper 1_2
+    21300038: Turnip w Paper 1_3
+    21300040: Turnip w Paper 1_4
+    21300042: Turnip w Paper 1_5
+    21300044: Turnip w Paper 1_6
+    21300046: Turnip w Paper 1_7
+    21300048: Turnip w Paper 1_8
+    21300050: Turnip w Paper 1_9
+    21300052: Turnip w Paper 1_10
+    21300054: Turnip w Paper 1_11
+    21300056: Turnip w Paper 1_12
+    21300058: Turnip w Paper 1_13
+    21300060: Turnip w Paper 1_14
+    21300062: Turnip w Paper 1_15
+    21300064: Turnip w Paper 1_16
+    21300066: Turnip w Paper 1_17
+    21300068: Turnip w Paper 1_18
+    21300070: Turnip w Paper 1_19
+    21300072: Turnip w Paper 1_20
+    21300074: Turnip w Paper 1_21
+    21300076: Turnip w Paper 1_22
+    21300078: Turnip w Paper 1_23
+    21300080: Turnip w Paper 1_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turnip w Paper 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 184
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 184
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 138
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 138
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 138
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 92
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 92
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 92
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 46
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 46
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 46
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Turnip w Paper 1_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 0, y: 115}
+      - {x: 27.811531, y: 109.371506}
+      - {x: 52.900673, y: 93.03696}
+      - {x: 72.81153, y: 67.59531}
+      - {x: 85.595085, y: 35.536953}
+      - {x: 90, y: -0.0000050268095}
+      - {x: 85.595085, y: -35.53696}
+      - {x: 72.81153, y: -67.5953}
+      - {x: 52.900665, y: -93.036964}
+      - {x: 27.811512, y: -109.371506}
+      - {x: -0.000029325724, y: -115}
+      - {x: -27.811567, y: -109.37148}
+      - {x: -52.900715, y: -93.03691}
+      - {x: -72.81157, y: -67.59524}
+      - {x: -85.59511, y: -35.53686}
+      - {x: -90, y: 0.000111043904}
+      - {x: -85.595055, y: 35.537075}
+      - {x: -72.81146, y: 67.59542}
+      - {x: -52.900574, y: 93.03704}
+      - {x: -27.811403, y: 109.37155}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f7f8dc498dbca6f4bab40462c6348ed1
+timeCreated: 1490820418
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: meatloaf
+  fontNames:
+  - meatloaf
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
